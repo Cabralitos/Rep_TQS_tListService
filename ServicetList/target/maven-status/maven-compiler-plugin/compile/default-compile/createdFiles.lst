@@ -1,0 +1,17 @@
+service\Member1FacadeREST.class
+service\TagFacadeREST.class
+com\mycompany\servicetlist\Priority.class
+com\mycompany\servicetlist\Tag.class
+service\PriorityFacadeREST.class
+com\mycompany\servicetlist\Tag_.class
+service\CategoryFacadeREST.class
+com\mycompany\servicetlist\Member1_.class
+com\mycompany\servicetlist\Category_.class
+com\mycompany\servicetlist\Task_.class
+com\mycompany\servicetlist\Member1.class
+com\mycompany\servicetlist\Category.class
+com\mycompany\servicetlist\Priority_.class
+service\TaskFacadeREST.class
+com\mycompany\servicetlist\Task.class
+service\ApplicationConfig.class
+service\AbstractFacade.class

@@ -1,0 +1,5 @@
+service\TagFacadeRESTTest.class
+service\PriorityFacadeRESTTest.class
+service\Member1FacadeRESTTest.class
+service\CategoryFacadeRESTTest.class
+service\TaskFacadeRESTTest.class
