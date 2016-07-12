@@ -9,20 +9,16 @@ import com.jayway.restassured.RestAssured;
 import static com.jayway.restassured.RestAssured.expect;
 import static com.jayway.restassured.RestAssured.given;
 import com.mycompany.servicetlist.Category;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Random;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
-import org.junit.FixMethodOrder;
 import org.junit.Test;
-import org.junit.runners.MethodSorters;
 
 /**
  *
- * @author Joana Silva
+ * @author Carlos Cabral
  */
 public class CategoryFacadeRESTTest {
     

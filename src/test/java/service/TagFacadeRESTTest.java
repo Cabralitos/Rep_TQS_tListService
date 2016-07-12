@@ -9,21 +9,16 @@ import com.jayway.restassured.RestAssured;
 import static com.jayway.restassured.RestAssured.expect;
 import static com.jayway.restassured.RestAssured.given;
 import com.mycompany.servicetlist.Tag;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
 import java.util.Random;
-import javax.ejb.embeddable.EJBContainer;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import static org.junit.Assert.*;
 
 /**
  *
- * @author Joana Silva
+ * @author Carlos Cabral
  */
 public class TagFacadeRESTTest {
     
